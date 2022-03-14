@@ -2,4 +2,4 @@
 - 👀 interested in minecraft hacks and roblox exploits/scripts
 - 🌱 currently learning Lua
 - 📫 How to reach me: 
-- Discord: Csmll#9907
+- Discord: inferious-malder#5184
