@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Righted1
-- 👀 interested in minecraft hacks and roblox exploits/scripts
-- 🌱 currently learning Lua
-- 📫 How to reach me: 
-- Discord: inferiousmalder
+fat
+- interested in minecraft hacks and roblox exploits/scripts
+- discord: inferiousmalder
