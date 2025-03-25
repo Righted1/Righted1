@@ -1,3 +1,2 @@
-fat
-- interested in minecraft hacks and roblox exploits/scripts
-- discord: inferiousmalder
+hi pls stop stalking me thx
+discord: inferiousmalder
